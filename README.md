@@ -51,6 +51,8 @@ Terraria tModLoader 기반 RPG 확장 모드
 - 커스텀 패킷 기반 멀티플레이 상태 동기화
 - 서버 검증 기반 플레이어 진행도 및 전투 상태 관리
 
+🔗 [Repository](https://github.com/HappySnupy/LeveledReturn)
+
 ---
 
 ### ⚾ LG Aimers
